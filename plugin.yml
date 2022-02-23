@@ -1,0 +1,5 @@
+name: VaporHCF
+version: 1.0.0
+author: ViggoMoon
+main: VaporMC\Vapor
+api: 4.0.0
